@@ -19,13 +19,8 @@ The dataset contains more than 235,000 air quality observations collected from m
 
 * Python
 * Pandas
-* NumPy
 * Jupyter Notebook
 * Microsoft Excel
-* Pivot Tables
-* Pivot Charts
-* Slicers
-* Filled Maps
 * Data Cleaning
 * Feature Engineering
 * Exploratory Data Analysis (EDA)
