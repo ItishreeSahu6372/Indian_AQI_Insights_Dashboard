@@ -1,4 +1,4 @@
-# India Air Quality Analytics Dashboard
+# India AQI Analytics Dashboard
 
 ## Project Overview
 
