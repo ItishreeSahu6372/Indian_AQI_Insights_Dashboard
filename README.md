@@ -45,5 +45,6 @@ This project analyzes air quality trends across Indian cities using AQI data fro
 
 ## Dashboard Preview
 
-<img width="1920" height="1080" alt="Screenshot 2026-06-10 235246" src="https://github.com/user-attachments/assets/691ac115-55b7-40f5-8ac1-60772d445e0f" />
+<img width="1900" height="904" alt="Dashboard" src="https://github.com/user-attachments/assets/05395100-57dc-4e29-aca4-f20245a0f2e5" />
+
 
