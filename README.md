@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes air quality trends across Indian cities using AQI data from 2022–2025. Python was used for data cleaning, preprocessing, feature engineering, and aggregation, while Excel was used to build an interactive dashboard for visual analysis.
+This project analyzes air quality trends across Indian cities using AQI data from 2022–2025. Python was used for data cleaning, preprocessing, feature engineering, EDA, and aggregation, while Excel was used to build an interactive dashboard for visual analysis.
 
 ## Objectives
 
