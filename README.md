@@ -44,10 +44,11 @@ The dataset contains more than 235,000 air quality observations collected from m
 
 ## Key Insights
 
-* AQI levels showed noticeable variation across different months and years.
-* Byrnihat and Delhi were among the most polluted cities in the dataset.
-* PM10 and PM2.5 were the most frequently reported pollutants.
-* Air quality varied significantly across different Indian states.
+* Byrnihat was the most polluted city with an average AQI of 243.69.
+* PM10 was the most frequently reported pollutant, appearing in over 135,000 records.
+* The average AQI across the dataset was 109.42.
+* AQI trends fluctuated considerably between 2022 and 2025.
+* Several states consistently recorded higher AQI levels than the national average.
 
 ## Dashboard Preview
 
