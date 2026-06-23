@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-This project presents a comprehensive analysis of air quality across India using AQI observations collected between 2022 and 2025. Python, SQL, and Microsoft Excel were used to clean, analyze, and visualize over 235,000 air quality records, enabling the identification of pollution trends, dominant pollutants, and regional air quality patterns through an interactive dashboard.
+This project presents a comprehensive analysis of air quality across India using AQI observations collected between 2022 and 2025. Python, SQL, and Microsoft Excel were used to clean, analyze, and visualize over 235,785 air quality records, enabling the identification of pollution trends, dominant pollutants, and regional air quality patterns through an interactive dashboard.
 
 ## Dataset Overview
 
-The dataset contains more than 235,000 air quality observations collected from multiple Indian cities between 2022 and 2025. Each record includes information such as date, city, state, AQI value, air quality category, and dominant pollutant.
+The dataset contains more than 235,785 air quality observations collected from multiple Indian cities between 2022 and 2025. Each record includes information such as date, city, state, AQI value, air quality category, and dominant pollutant.
 
 ## Objectives
 
@@ -28,7 +28,7 @@ The dataset contains more than 235,000 air quality observations collected from m
 
 ## SQL Analysis
 
-SQL was used to perform exploratory and analytical querying on the AQI dataset, enabling the extraction of key environmental insights from over 235,000 records.
+SQL was used to perform exploratory and analytical querying on the AQI dataset, enabling the extraction of key environmental insights from over 235,785 records.
 
 ### Analyses performed:
 
