@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes air quality trends across Indian cities using AQI data from 2022 to 2025. Python was used for data cleaning, preprocessing, feature engineering, EDA, and data analysis, while Microsoft Excel was used to build an interactive dashboard for visualizing air quality patterns and pollution trends.
+This project presents a comprehensive analysis of air quality across India using AQI observations collected between 2022 and 2025. Python, SQL, and Microsoft Excel were used to clean, analyze, and visualize over 235,000 air quality records, enabling the identification of pollution trends, dominant pollutants, and regional air quality patterns through an interactive dashboard.
 
 ## Dataset Overview
 
@@ -10,22 +10,34 @@ The dataset contains more than 235,000 air quality observations collected from m
 
 ## Objectives
 
-* Analyze AQI trends over time
-* Identify the most polluted cities
-* Study pollutant distribution
-* Compare air quality across Indian states
+* Analyze air quality trends across Indian cities and states.
+* Identify pollution hotspots and dominant pollutants.
+* Generate actionable insights through data analysis and visualization.
 
 ## Tools & Techniques
 
-* Python
-* Pandas
+* Python (Pandas, NumPy)
+* SQL
 * Jupyter Notebook
 * Microsoft Excel
 * Data Cleaning
-* Feature Engineering
 * Exploratory Data Analysis (EDA)
 * Data Visualization
+* Pivot Tables, Charts & Slicers
 * GitHub
+
+## SQL Analysis
+
+SQL was used to perform exploratory and analytical querying on the AQI dataset, enabling the extraction of key environmental insights from over 235,000 records.
+
+### Analyses performed:
+
+* AQI trend analysis over time
+* Most polluted and cleanest city identification
+* Top polluted city ranking
+* State-wise air quality analysis
+* Pollutant frequency and distribution analysis
+* AQI summary statistics
 
 ## Dashboard Features
 
